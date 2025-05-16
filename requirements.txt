@@ -1,0 +1,19 @@
+# Core Django
+Django==4.2.11
+django-crispy-forms==2.1
+crispy-bootstrap4==2024.1
+
+# Database
+sqlparse==0.4.4
+
+# Image Processing
+Pillow==10.2.0
+
+# Development & Testing
+Faker==24.1.0  # For generating fake data
+
+# Environment Variables
+python-dotenv==1.0.1
+
+# Email Support
+django-smtp-ssl==1.0  # For secure email sending 
